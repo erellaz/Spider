@@ -12,7 +12,7 @@ The designs are parametric to easily scale to any secondary mirror size, and to 
 1. Open the files provided in OpenScad (an open source-software). You can then change the parametric dimensions at the beginning of the file to adjust exactly to your project requirements. You do not need to modify any of the OpenScad code to change dimensions (this is the beauty of parametric designs) but you could certainly customize the design yourself if additional features are needed (this is beauty of open-source).
 2. Optional but highly recommended: 3D print a prototype to verify size and function. Iterate 1 to 2 until you are perfectly satisfied. 3D printed prototypes are cheap and easy to iterate, machining metal takes time and is expensive.
 3. Comment the $fn line in the OpenScad file (just add // in front, so the lines starts with //$fn). If you forget this step your object will be faceted rater than solid in the next step, hence very difficult to machine, more expensive, or even rejected by the machine shop.
-4. Open FreeCad (another open-source software), do: file>new, file>import from OpenScad,import your OpenScad file, then: file>export to .step file.
+4. Open FreeCad (another open-source software), do: file>new, file>import from OpenScad, import your OpenScad file, then: file>export to .step file.
 5. Get your object machined in metal with a CNC router:
   - load your stepfile to one of the online machining service. Get an instant quote, add information to tap holes, choose a finish and coating. Get the finished part delivered in days.
   - send the stepfile to your favorite machinist.
