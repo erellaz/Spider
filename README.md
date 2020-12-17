@@ -14,9 +14,9 @@ The designs are parametric to easily scale to any telescope size, and adapt the 
 3. Comment the $fn line in the openScad file (just add // in front). If you forget this step your object will be faceted rater than solid, hence very difficult to machine.
 4. Open FreeCad (open source software), do: file>new, file>import from OpenScad, file>export to step.
 5. Get your object machined in metal with a CNC router:
- - load your stepfile to one of the online machining service.
- - send the stepfile to your favorite machinist.
- - machin it yourself, maybe at your local maker space or college workshop.
+  - load your stepfile to one of the online machining service.
+  - send the stepfile to your favorite machinist.
+  - machin it yourself, maybe at your local maker space or college workshop.
 
 ## Notes
 I use Aluminum 6061, Black Anodize, and tap the holes manually.
