@@ -19,7 +19,7 @@ The designs are parametric to easily scale to any telescope size, and adapt the 
   - machin it yourself, maybe at your local maker space or college workshop.
 
 ## Notes
-I use Aluminum 6061, Black Anodize, and tap the holes manually.
+I use Aluminum 6061, Black Anodize, and usually tap the holes manually by myself.
 
 ## More ressources on this
 Visit http://erellaz.com
